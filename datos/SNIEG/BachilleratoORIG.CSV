@@ -1,0 +1,51 @@
+﻿"Sistema Nacional de Información Estadística y Geográfica",
+"Catálogo Nacional de Indicadores",
+"Fecha de consulta: 25/03/2024 18:35:41",
+
+"Nombre del Indicador Clave: Eficiencia terminal en educación media superior",
+"Definición: Número de alumnos que egresan de un determinado nivel educativo en un ciclo escolar, por cada 100 alumnos inscritos en la cohorte escolar inicial del mismo nivel. Cuando el programa tiene una duración de tres ciclos anuales, periodicidad típica del tipo educativo, dicha generación escolar se compone de los alumnos de nuevo ingreso matriculados en el primer grado de educación media superior dos ciclos previos al de referencia.",
+"Cobertura geográfica: Nacional y Estatal.",
+"Cobertura temporal: A partir del 2000.",
+"Unidad de medida: Porcentaje de alumnos",
+"Periodicidad: Anual",
+"Próxima fecha de actualización: 23 de Octubre de 2024",
+
+
+"Entidad federativa","2015","2016","2017","2018","2019","2020","2021",
+"Nacional","65.62507","64.39479","63.88315","64.79865","66.70432","64.93892","68.53329"
+"Aguascalientes","66.79740","65.49610","63.22785","70.71130","68.90834","65.80879","74.11692"
+"Baja California","59.74364","61.45278","64.94015","62.59579","65.50741","61.97831","62.35608"
+"Baja California Sur","63.96079","67.42148","64.53694","71.42028","71.95624","69.42136","64.35048"
+"Campeche","62.07971","62.10151","60.03409","57.74783","67.91440","63.27214","65.04800"
+"Coahuila de Zaragoza","61.48799","65.13761","64.06380","69.83528","65.25873","65.58304","62.00391"
+"Colima","68.69126","68.57068","67.75716","69.38471","69.89155","63.85958","64.87023"
+"Chiapas","69.17901","66.35502","66.50250","63.63956","67.48185","68.99858","70.65094"
+"Chihuahua","60.09102","57.92099","59.90553","59.83446","60.92866","60.52266","61.61528"
+"Ciudad de México","54.57875","53.15948","50.89326","49.44697","58.27676","65.44806","64.89748"
+"Durango","58.81488","57.29948","53.49611","57.35424","62.76725","58.06540","63.19442"
+"Guanajuato","59.59228","61.41459","56.64976","61.03691","60.62956","57.89361","60.64142"
+"Guerrero","70.44412","68.42914","64.13528","64.92925","65.09322","64.56375","65.80508"
+"Hidalgo","64.14508","60.99592","60.60809","61.46910","64.93926","63.65305","61.52798"
+"Jalisco","77.53437","60.80785","63.89014","67.28849","69.01296","56.21074","93.51920"
+"México","63.52658","63.44875","65.17468","67.49410","67.83076","69.65017","71.26773"
+"Michoacán de Ocampo","65.61280","59.58414","59.82225","61.32339","61.58721","61.72648","66.28816"
+"Morelos","59.99695","60.67635","53.57576","59.17873","61.41042","55.29622","60.52591"
+"Nayarit","60.59252","64.06227","65.10417","64.90710","73.15578","66.14366","67.08683"
+"Nuevo León","75.86864","67.09481","65.33263","68.16570","63.42940","68.24461","70.96888"
+"Oaxaca","69.76769","66.20840","68.46537","64.88567","64.44858","62.79177","64.11414"
+"Puebla","74.53760","74.46237","71.65452","73.00394","73.05649","71.63678","69.65720"
+"Querétaro","65.86523","66.64489","70.31758","68.11515","69.08503","63.93213","64.09211"
+"Quintana Roo","70.41846","66.14266","69.41187","69.80121","73.58654","76.17093","67.58242"
+"San Luis Potosí","67.71524","67.02654","68.14887","72.56153","68.44213","67.88599","67.08227"
+"Sinaloa","70.31548","70.06208","69.75651","68.60120","68.39826","63.26606","66.93509"
+"Sonora","66.86055","64.65341","63.47260","66.54020","66.14258","64.31701","63.10825"
+"Tabasco","69.04168","68.83177","73.16991","72.13257","75.80040","68.74957","77.46176"
+"Tamaulipas","66.37640","65.23708","68.10966","69.67499","70.58644","66.01813","67.57654"
+"Tlaxcala","65.94100","65.69566","66.55509","67.27739","72.48814","71.06402","76.79981"
+"Veracruz de Ignacio de la Llave","67.94789","80.09739","74.72953","70.42000","75.92343","64.73778","68.90163"
+"Yucatán","60.69186","62.48720","64.63823","68.35485","69.46855","68.56138","65.59730"
+"Zacatecas","66.21332","63.02469","63.89975","65.16282","68.53575","62.03463","63.41862"
+
+"Nota: A partir del ciclo 2017-2018 el cálculo para este indicador solo comprende dos variables Egresados de bachillerato y Nuevo ingreso a primer grado de bachillerato.",
+"Responsable: SEP.  Dirección General de Planeación, Programación y Estadística Educativa.",
+"Fuente: SEP.   Bases de datos del formato 911 de educación media superior (inicio del ciclo escolar).  ",

@@ -1,0 +1,51 @@
+﻿"Sistema Nacional de Información Estadística y Geográfica",
+"Catálogo Nacional de Indicadores",
+"Fecha de consulta: 25/03/2024 18:22:21",
+
+"Nombre del Indicador Clave: Porcentaje de población en situación de pobreza",
+"Definición: Porcentaje de población cuyo ingreso es inferior al valor de la línea de bienestar y que padece al menos una carencia social.",
+"Cobertura geográfica: Nacional, Estatal y Municipal.",
+"Cobertura temporal: A partir de 2008",
+"Unidad de medida: Porcentaje de población",
+"Periodicidad: Nacional y estatal cada dos años y municipal o demarcación territorial cada cinco años",
+"Próxima fecha de actualización: 3 de Octubre de 2025",
+
+
+"Entidad federativa","2014","2015","2016","2018","2020","2022",
+"Nacional","46.16754","","43.23145","41.90591","43.91136","36.31419"
+"Aguascalientes","34.76592","","28.94648","26.26541","27.62669","23.72232"
+"Baja California","28.59798","","22.60487","23.59869","22.51012","13.37082"
+"Baja California Sur","30.26271","","22.88005","18.57216","27.60222","13.32903"
+"Campeche","43.58780","","45.66019","48.96430","50.54915","45.12944"
+"Coahuila de Zaragoza","30.17138","","27.05571","25.50771","25.61704","18.24332"
+"Colima","34.34574","","32.53320","30.41075","26.69353","20.54717"
+"Chiapas","76.20853","","77.91277","77.99502","75.49129","67.37083"
+"Chihuahua","34.39066","","30.70164","26.64279","25.30499","17.57220"
+"Ciudad de México","28.37234","","26.59986","29.96781","32.60447","23.96761"
+"Durango","43.46444","","37.19312","38.78717","38.69167","34.31107"
+"Guanajuato","46.55500","","39.35110","41.48813","42.74239","33.03430"
+"Guerrero","65.21807","","66.82816","67.89002","66.40571","60.35474"
+"Hidalgo","54.30355","","56.90224","49.86971","50.75079","40.99902"
+"Jalisco","35.36841","","30.46840","27.80150","31.41551","21.83615"
+"México","49.60001","","46.64539","41.77450","48.86456","42.87551"
+"Michoacán de Ocampo","59.24733","","54.16250","46.21151","44.50929","41.73628"
+"Morelos","52.27198","","46.69338","48.54415","50.94579","41.05589"
+"Nayarit","40.50331","","38.10435","35.72054","30.40544","29.31316"
+"Nuevo León","20.36618","","18.84034","19.38327","24.33040","16.04045"
+"Oaxaca","66.75009","","67.97761","64.33596","61.66425","58.44035"
+"Puebla","64.53702","","58.12609","58.00944","62.43210","54.01727"
+"Querétaro","34.17529","","29.68809","26.37347","31.32530","21.69072"
+"Quintana Roo","35.88220","","31.65285","30.19207","47.48029","26.96601"
+"San Luis Potosí","49.10143","","44.13719","42.06817","42.84615","35.52276"
+"Sinaloa","39.36941","","30.45804","30.98426","28.07140","21.63881"
+"Sonora","29.35822","","27.00777","26.66402","29.92402","21.69311"
+"Tabasco","49.57065","","53.84362","56.35137","54.47779","46.47409"
+"Tamaulipas","37.92356","","32.04342","34.54683","34.94246","26.82275"
+"Tlaxcala","58.92759","","55.93331","50.96552","59.28752","52.51998"
+"Veracruz de Ignacio de la Llave","58.00518","","60.49191","60.15534","58.60315","51.73243"
+"Yucatán","45.85651","","45.50457","44.03003","49.48563","38.77263"
+"Zacatecas","52.34579","","50.19457","49.23215","45.77076","44.21589"
+
+"Nota: Existen municipios que por ser de nueva creación o por no poseer información suficiente, no cuenta con estimación en algún año.   Para la medición de pobreza y sus dimensiones, serie bienal 2016-2022, se utilizan las bases de datos que publicó el INEGI con las proyecciones poblacionales construidas con base en el Marco de Muestreo de Viviendas y los resultados del Censo de Población y Vivienda 2020. La serie bienal 2016-2022 corresponde a las estimaciones del CONEVAL con base en la ENIGH 2016, 2018, 2020 y 2022. Los indicadores de la medición multidimensional de la pobreza para los años 2016, 2018, 2020 y 2022, a escalas nacional y estatal, corresponden a los Lineamientos y criterios generales para la definición, identificación y medición de la pobreza publicados en 2018 y a su anexo único Metodología para la medición multidimensional de la pobreza en México, tercera edición. Cifras estatales: La dimensión de acceso a los servicios básicos en la vivienda considera carentes a las personas que utilizan leña o carbón como combustible para cocinar y su vivienda no cuenta con una chimenea. Debido a que la información necesaria para medir esta variable no se incorporó en la encuesta de 2008, el CONEVAL realizó una estimación que contempla el indicador de chimenea para cocinar en la vivienda y permite dar continuidad histórica a la serie nacional y estatal 2008-2018.  Los indicadores de la medición multidimensional de la pobreza para los años 2016, 2018 y 2020, a escalas nacional y estatal, corresponden a los Lineamientos y criterios generales para la definición, identificación y medición de la pobreza publicados en 2018 y a su anexo único Metodología para la medición multidimensional de la pobreza en México, tercera edición.  Cifras municipales:  La población presentada en estos cuadros tiene un propósito exclusivamente estadístico: está calibrada para que, en las estimaciones de pobreza, la suma de la población municipal sea igual a la población de cada entidad federativa reportada con base en la información del MCS-ENIGH 2010, MEC del MCS-ENIGH 2015 o MEC del MCS-ENIGH 2020 publicados. Por lo anterior, estas cifras de población podrían diferir de las reportadas por el INEGI o CONAPO a nivel municipal.  El 18 de diciembre de 2017 se publicaron los indicadores de la medición de pobreza municipal 2015, así como la actualización de las cifras 2010. Los indicadores de ambas mediciones municipales siguieron la metodología de medición multidimensional de la pobreza del CONEVAL y se generaron con los mismos procedimientos estadísticos, producto de un proyecto de estimación en áreas pequeñas que incorporó los desarrollos técnicos más recientes.",
+"Responsable: CONEVAL.  Coordinación General de Análisis de la Pobreza.",
+"Fuente: CONEVAL.   Estimaciones con base en la Encuesta Nacional de Ingresos y Gastos de los Hogares, el Módulo de Condiciones Socioeconómicas de la Encuesta Nacional de Ingresos y Gastos de los Hogares y el Modelo Estadístico para la continuidad del Módulo de Condiciones Socioeconómicas. Muestra del Censo de Población y Vivienda. Encuesta Intercensal.  ",
